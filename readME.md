@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://media1.tenor.com/m/MbXqB_p-AHAAAAAC/lego-lego-batman.gif" width="200" />
+
 <!-- Header animado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=220&section=header&text=Erick%20Matheus%20Frias&fontSize=42&fontColor=00ff9c&animation=fadeIn&fontAlignY=35&desc=Dev%20em%20forma%C3%A7%C3%A3o%20%7C%20Construindo%20solu%C3%A7%C3%B5es%20reais&descAlignY=55&descSize=18&descColor=8b8b8b" />
 
