@@ -72,10 +72,7 @@ Não vivo só de código! Quando não estou estudando, você provavelmente vai m
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KINDERzin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9" width="48%" />
 <img src="https://streak-stats.demolab.com?user=KINDERzin&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KINDERzin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" width="60%" />
 
 </div>
 
