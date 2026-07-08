@@ -57,8 +57,11 @@ Não vivo só de código! Quando não estou estudando, você provavelmente vai m
 
 ## 🚀 Alguns dos meus projetos
 
-### 🧲 Calculadora de Indução Eletromagnética
+### 🧲 [Calculadora de Indução Eletromagnética](https://github.com/KINDERzin/Calculadora_Fisica_Eletrica)
 > Aplicação desktop em **JavaFX**, seguindo arquitetura **MVC**, com interface dark/terminal, desenvolvida em Eclipse IDE como projeto acadêmico.
+
+### 🎯 [Lançamento Oblíquo](https://github.com/KINDERzin/Lancamento_obliquo)
+> Projeto acadêmico para cálculo e simulação de lançamento oblíquo, aplicando conceitos de física e matemática.
 
 ### 🏥 Mais Saúde
 > Conceito de plataforma de saúde pública para o sistema UBS/SUS, com documento de requisitos completo (v1.2), módulos para cidadãos, assistente com IA e integrações com Gov.br, RNDS e CNES.
@@ -94,4 +97,10 @@ Não vivo só de código! Quando não estou estudando, você provavelmente vai m
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" />
 </div>
 
-<div class="tenor-gif-embed" data-postid="12293946" data-share-method="host" data-aspect-ratio="1.89394" data-width="100%"><a href="https://tenor.com/view/2step-bangbang-backfire-flameball-skyline-gif-12293946">2step Bangbang GIF</a>from <a href="https://tenor.com/search/2step-gifs">2step GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div align="center">
+<img src="https://media1.tenor.com/m/A4kVyQaDo6QAAAAd/2step-bangbang.gif" width="400" />
+</div>
+
+<div align="center">
+<img src="https://tenor.com/ZKnC.gif" width="400" />
+</div>
