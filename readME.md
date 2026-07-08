@@ -62,9 +62,6 @@ Não vivo só de código! Quando não estou estudando, você provavelmente vai m
 ### 🎯 [Lançamento Oblíquo](https://github.com/KINDERzin/Lancamento_obliquo)
 > Projeto acadêmico para cálculo e simulação de lançamento oblíquo, aplicando conceitos de física e matemática.
 
-### 🏥 Mais Saúde
-> Conceito de plataforma de saúde pública para o sistema UBS/SUS, com documento de requisitos completo (v1.2), módulos para cidadãos, assistente com IA e integrações com Gov.br, RNDS e CNES.
-
 <br>
 
 ## 📊 Estatísticas do GitHub
