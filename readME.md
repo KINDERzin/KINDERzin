@@ -1,16 +1,19 @@
-<div align="center">
+<table width="100%">
+<tr>
+<td width="70%">
 
-<img src="https://media1.tenor.com/m/MbXqB_p-AHAAAAAC/lego-lego-batman.gif" width="200" />
+# Olá, eu sou o Erick 👋
 
-<!-- Header animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=220&section=header&text=Erick%20Matheus%20Frias&fontSize=42&fontColor=00ff9c&animation=fadeIn&fontAlignY=35&desc=Dev%20em%20forma%C3%A7%C3%A3o%20%7C%20Construindo%20solu%C3%A7%C3%B5es%20reais&descAlignY=55&descSize=18&descColor=8b8b8b" />
-
-<!-- Typing effect -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%87%A7%F0%9F%87%B7;Construindo+um+SaaS+ERP+do+zero;Java+%7C+JavaFX+%7C+Next.js+%7C+Prisma;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF9C&vCenter=true&width=500&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%87%A7%F0%9F%87%B7;Construindo+um+SaaS+ERP+do+zero;Java+%7C+JavaFX+%7C+Next.js+%7C+Prisma;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 </a>
 
-</div>
+</td>
+<td width="30%" align="right">
+<img src="https://media1.tenor.com/m/MbXqB_p-AHAAAAAC/lego-lego-batman.gif" width="150" />
+</td>
+</tr>
+</table>
 
 <br>
 
