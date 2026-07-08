@@ -17,15 +17,26 @@
 
 <br>
 
-## 👋 Sobre mim
+## Olá, me chamo Erick (a.k.a. KINDERzin) 👋
 
-Sou o **Erick** (a.k.a. **KINDERzin**), estudante de Ciência da Computação no Brasil, apaixonado por transformar ideias em produtos reais. Estou construindo o **ERP Confecção**, um SaaS voltado para confecções, do zero — arquitetura, banco de dados, pagamentos e tudo mais — enquanto sigo firme na faculdade estudando estruturas de dados, teoria da computação, cálculo e matemática discreta.
+Tenho 19 anos, sou de Apucarana/PR e atualmente dedico meu tempo aos estudos. Aqui no meu GitHub, você vai encontrar principalmente meus códigos, anotações e projetos da faculdade! 🎓
 
-- 🔭 Atualmente construindo o **ERP Confecção**, um SaaS para gestão de confecções (estoque, produção, vendas e financeiro)
-- 🎓 Cursando Ciência da Computação, com foco em algoritmos, teoria da computação e engenharia de software
+
+- 🔍 [Projetos em finalizados](#-projetos-em-destaque)
+- 💻 Projetos finalizados
+- 🏫 Faculdade: UNESPAR
+- 🎓 Curso: Ciência da Computação - 2º ano
 - 🧠 Estudando na prática: React, Node.js e Clean Architecture
-- 🚗 Nas horas vagas, gosto de carros
 - 📫 Me encontre no Instagram: [@3rick__zin](https://www.instagram.com/3rick__zin/)
+
+### 🏃‍♂️ Um pouco sobre mim (fora das telas):
+Não vivo só de código! Quando não estou estudando, você provavelmente vai me encontrar fazendo alguma dessas coisas:
+* 🎧 Passo grande parte do dia ouvindo música.
+* 🚴‍♂️ Gosto de pedalar.
+* 🌕 Olhar o céu durante as noite.
+* 🏎️ 100% Gearhead.
+* 🎮 Curto alguns games também.
+
 
 <br>
 
@@ -34,36 +45,21 @@ Sou o **Erick** (a.k.a. **KINDERzin**), estudante de Ciência da Computação no
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-FF6600?style=for-the-badge&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 <br>
 
-## 🚀 Projetos em destaque
-
-### 🧵 ERP Confecção
-> SaaS completo de gestão para confecções — estoque, fichas técnicas, ordens de produção, vendas, financeiro e dashboard, com sistema de assinatura e trial de 30 dias.
-
-- **Stack:** Next.js 16 · Prisma 6 · PostgreSQL/Supabase · Clerk · Tailwind · shadcn/ui
-- **Destaques técnicos:** Server Actions com autenticação por empresa, transações críticas com `prisma.$transaction`, integração de pagamentos via Asaas (Pix e cartão)
-- **Status:** MVP em produção · v2 em desenvolvimento (permissões de usuário, assinaturas, pagamentos)
+## 🚀 Alguns dos meus projetos
 
 ### 🧲 Calculadora de Indução Eletromagnética
 > Aplicação desktop em **JavaFX**, seguindo arquitetura **MVC**, com interface dark/terminal, desenvolvida em Eclipse IDE como projeto acadêmico.
-
-### 🤖 Autômatos com Pilha (PDA) — Teoria da Computação
-> Modelagem e depuração de autômatos de pilha para reconhecimento de linguagens formais, com foco em correção de estados de aceitação e condições sobre a linguagem.
 
 ### 🏥 Mais Saúde
 > Conceito de plataforma de saúde pública para o sistema UBS/SUS, com documento de requisitos completo (v1.2), módulos para cidadãos, assistente com IA e integrações com Gov.br, RNDS e CNES.
@@ -89,6 +85,7 @@ Sou o **Erick** (a.k.a. **KINDERzin**), estudante de Ciência da Computação no
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/3rick__zin/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KINDERzin)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erickfrias8006@gmail.com)
 
 </div>
 
