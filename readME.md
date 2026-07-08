@@ -2,7 +2,7 @@
 <tr>
 <td width="70%">
 
-# Olá, eu sou o Erick 👋
+## Olá, me chamo Erick (a.k.a. KINDERzin) 👋
 
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF9C&vCenter=true&width=500&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%87%A7%F0%9F%87%B7;Construindo+um+SaaS+ERP+do+zero;Java+%7C+JavaFX+%7C+Next.js+%7C+Prisma;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
@@ -17,7 +17,7 @@
 
 <br>
 
-## Olá, me chamo Erick (a.k.a. KINDERzin) 👋
+
 
 Tenho 19 anos, sou de Apucarana/PR e atualmente dedico meu tempo aos estudos. Aqui no meu GitHub, você vai encontrar principalmente meus códigos, anotações e projetos da faculdade! 🎓
 
