@@ -21,7 +21,6 @@
 
 Tenho 19 anos, sou de Apucarana/PR e atualmente dedico meu tempo aos estudos. Aqui no meu GitHub, você vai encontrar principalmente meus códigos, anotações e projetos da faculdade! 🎓
 
-- 💻 Alguns projetos
 - 🏫 Faculdade: UNESPAR
 - 🎓 Curso: Ciência da Computação - 2º ano
 - 🧠 Estudando na prática: React, Node.js e Clean Architecture
