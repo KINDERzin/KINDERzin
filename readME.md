@@ -90,10 +90,8 @@ Não vivo só de código! Quando não estou estudando, você provavelmente vai m
 
 <br>
 
-
-<img src="https://tenor.com/pt-BR/view/2step-bangbang-backfire-flameball-skyline-gif-12293946" width="300" />
-
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" />
 </div>
+
+<div class="tenor-gif-embed" data-postid="12293946" data-share-method="host" data-aspect-ratio="1.89394" data-width="100%"><a href="https://tenor.com/view/2step-bangbang-backfire-flameball-skyline-gif-12293946">2step Bangbang GIF</a>from <a href="https://tenor.com/search/2step-gifs">2step GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
