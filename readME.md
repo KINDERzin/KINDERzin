@@ -98,9 +98,5 @@ Não vivo só de código! Quando não estou estudando, você provavelmente vai m
 </div>
 
 <div align="center">
-<img src="https://media1.tenor.com/m/A4kVyQaDo6QAAAAd/2step-bangbang.gif" width="400" />
-</div>
-
-<div align="center">
 <img src="https://tenor.com/ZKnC.gif" width="400" />
 </div>
