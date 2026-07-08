@@ -94,9 +94,5 @@ Não vivo só de código! Quando não estou estudando, você provavelmente vai m
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" />
-</div>
-
-<div align="center">
-<img src="https://tenor.com/ZKnC.gif" width="400" />
+<img src="https://media1.tenor.com/m/A4kVyQaDo6QAAAAd/2step-bangbang.gif" width="400" />
 </div>
