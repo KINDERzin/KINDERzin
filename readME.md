@@ -10,33 +10,32 @@
 
 </td>
 <td width="30%" align="right">
+
 <img src="https://media1.tenor.com/m/MbXqB_p-AHAAAAAC/lego-lego-batman.gif" width="150" />
+
 </td>
 </tr>
 </table>
 
 <br>
 
-
-
 Tenho 19 anos, sou de Apucarana/PR e atualmente dedico meu tempo aos estudos. Aqui no meu GitHub, você vai encontrar principalmente meus códigos, anotações e projetos da faculdade! 🎓
 
-
-- 🔍 [Projetos em finalizados](#-projetos-em-destaque)
-- 💻 Projetos finalizados
+- 💻 Alguns projetos
 - 🏫 Faculdade: UNESPAR
 - 🎓 Curso: Ciência da Computação - 2º ano
 - 🧠 Estudando na prática: React, Node.js e Clean Architecture
 - 📫 Me encontre no Instagram: [@3rick__zin](https://www.instagram.com/3rick__zin/)
 
 ### 🏃‍♂️ Um pouco sobre mim (fora das telas):
-Não vivo só de código! Quando não estou estudando, você provavelmente vai me encontrar fazendo alguma dessas coisas:
-* 🎧 Passo grande parte do dia ouvindo música.
-* 🚴‍♂️ Gosto de pedalar.
-* 🌕 Olhar o céu durante as noite.
-* 🏎️ 100% Gearhead.
-* 🎮 Curto alguns games também.
 
+Não vivo só de código! Quando não estou estudando, você provavelmente vai me encontrar fazendo alguma dessas coisas:
+
+- 🎧 Passo grande parte do dia ouvindo música.
+- 🚴‍♂️ Gosto de pedalar.
+- 🌕 Olhar o céu durante as noites.
+- 🏎️ 100% Gearhead.
+- 🎮 Curto alguns games também.
 
 <br>
 
@@ -71,7 +70,7 @@ Não vivo só de código! Quando não estou estudando, você provavelmente vai m
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=KINDERzin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KINDERzin&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" width="48%" />
+<img src="https://streak-stats.demolab.com?user=KINDERzin&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KINDERzin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" width="60%" />
 
@@ -90,6 +89,10 @@ Não vivo só de código! Quando não estou estudando, você provavelmente vai m
 </div>
 
 <br>
+
+
+<img src="https://tenor.com/pt-BR/view/2step-bangbang-backfire-flameball-skyline-gif-12293946" width="300" />
+
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" />
