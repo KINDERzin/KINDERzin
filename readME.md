@@ -32,7 +32,7 @@ Não vivo só de código! Quando não estou estudando, você provavelmente vai m
 
 - 🎧 Passo grande parte do dia ouvindo música.
 - 🚴‍♂️ Gosto de pedalar.
-- 🌕 Olhar o céu durante as noites.
+- 🌕 Observar a lua durante a noite.
 - 🏎️ 100% Gearhead.
 - 🎮 Curto alguns games também.
 
