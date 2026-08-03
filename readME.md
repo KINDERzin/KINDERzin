@@ -62,6 +62,9 @@ Não vivo só de código! Quando não estou estudando, você provavelmente vai m
 ### 🎯 [Lançamento Oblíquo](https://github.com/KINDERzin/Lancamento_obliquo)
 > Projeto acadêmico para cálculo e simulação de lançamento oblíquo, aplicando conceitos de física e matemática.
 
+### 🪪 [Validação de CPF](https://github.com/KINDERzin/Valida_CPF)
+> App para descobrir se aquele CPF é real ou invenção 👀
+
 <br>
 
 ## 📊 Estatísticas do GitHub
