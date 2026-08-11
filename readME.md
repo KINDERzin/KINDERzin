@@ -19,13 +19,13 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=KINDERzin&base=1000)
+![](https://komarev.com/ghpvc/?username=KINDERzin&base=51000)
 
 Tenho 19 anos, sou de Apucarana/PR e atualmente dedico meu tempo aos estudos. Aqui no meu GitHub, você vai encontrar principalmente meus códigos, anotações e projetos da faculdade! 🎓
 
 - 🏫 Faculdade: UNESPAR
 - 🎓 Curso: Ciência da Computação - 2º ano
-- 🧠 Estudando na prática: React, Node.js e Clean Architecture
+- 🧠 Estudando na prática: Java, C, Python
 - 📫 Me encontre no Instagram: [@3rick__zin](https://www.instagram.com/3rick__zin/)
 
 ### 🏃‍♂️ Um pouco sobre mim (fora das telas):
