@@ -19,6 +19,8 @@
 
 <br>
 
+![](https://komarev.com/ghpvc/?username=KINDERzin&base=1000)
+
 Tenho 19 anos, sou de Apucarana/PR e atualmente dedico meu tempo aos estudos. Aqui no meu GitHub, você vai encontrar principalmente meus códigos, anotações e projetos da faculdade! 🎓
 
 - 🏫 Faculdade: UNESPAR
