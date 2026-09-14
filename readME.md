@@ -5,7 +5,7 @@
 ## Olá, me chamo Erick (a.k.a. KINDERzin) 👋
 
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF9C&vCenter=true&width=500&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%87%A7%F0%9F%87%B7;Construindo+um+SaaS+ERP+do+zero;Java+%7C+JavaFX+%7C+Next.js+%7C+Prisma;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF9C&vCenter=true&width=500&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%87%A7%F0%9F%87%B7;;Java+%7C+JavaFX+%7C;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 </a>
 
 </td>
