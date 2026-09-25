@@ -32,7 +32,6 @@ Não vivo só de código! Quando não estou estudando, você provavelmente vai m
 
 - 🎧 Passo grande parte do dia ouvindo música.
 - 🚴‍♂️ Gosto de pedalar.
-- 🌕 Observar a lua durante a noite.
 - 🏎️ 100% Gearhead.
 - 🎮 Curto alguns games também.
 
@@ -84,7 +83,7 @@ Não vivo só de código! Quando não estou estudando, você provavelmente vai m
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/3rick__zin/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KINDERzin)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erickfrias8006@gmail.com)
-
+[![WhatsApp](https://img.shields.io/badge/whatsapp-0D1117?style=for-the-badge&logo=whatsapp)](https://wa.me/+5543988688476)
 </div>
 
 <br>
